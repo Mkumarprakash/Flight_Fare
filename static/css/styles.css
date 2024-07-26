@@ -1,0 +1,42 @@
+body {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.navbar {
+    background-color: darkred;
+}
+.navbar-brand{
+    text-align: center;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: yellowgreen;
+  }
+.card{
+    border-radius: 0px 20px;
+}
+.card-title{
+    color:green;
+}
+input{
+
+    border-radius: 10px ;
+    border-color: black 2px;
+    
+}
+select{
+    border-radius: 10px ;
+    border-color: yellowgreen ;
+    
+    border-width: 2px;
+}
+option{
+    background-color: black;
+    color: antiquewhite;
+    
+}
